@@ -21,6 +21,6 @@ phases:
 artifacts:
   type: zip
   files:
-    - target/BuildArtif
+    - 'sample2/BuildArtif/O7s9SOw'
 #    - template-export.yml
 #    - template-configuration.json
